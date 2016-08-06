@@ -1,0 +1,36 @@
+_repo: Le-Comte-Ory--13-Op-ra-en-deux-actes_9893
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Delestre-Poirson, C.-G. (Charles-Gaspard)
+    alias: Delestre-Poirson, Charles-Gaspard
+    birthdate: 1790
+    deathdate: 1859
+    gutenberg_agent_id: '4445'
+    url: http://www.gutenberg.org/2009/agents/4445
+  - agent_name: Scribe, Eugène
+    aliases:
+    - Scribe, E. (Eugène)
+    - Scribe, Eugene
+    - Scribe, Augustin Eugène
+    birthdate: 1791
+    deathdate: 1861
+    gutenberg_agent_id: '4444'
+    url: http://www.gutenberg.org/2009/agents/4444
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Scribe
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9893'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Operas -- Librettos'
+- !lcc 'ML'
+- GITenberg
+title: 'Le Comte Ory: Opéra en deux actes'
+url: http://www.gutenberg.org/ebooks/9893
