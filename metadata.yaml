@@ -1,5 +1,8 @@
 _repo: Le-Comte-Ory--13-Op-ra-en-deux-actes_9893
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Delestre-Poirson, C.-G. (Charles-Gaspard)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4444
     wikipedia: http://en.wikipedia.org/wiki/Eugène_Scribe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9893#Le-Comte-Ory--13-Op-ra-en-deux-actes
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
